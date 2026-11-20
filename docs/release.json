@@ -1,12 +1,12 @@
 {
-  "version": "0.40.1",
-  "versionCode": 50,
+  "version": "0.44.0",
+  "versionCode": 63,
   "applicationId": "ar.com.asistente",
   "minSdk": 28,
-  "size": 327209904,
-  "sha256": "e3bec9256a025e60b56ad54846ab939d712953f1dfce90028d75748bf4a681b8",
-  "downloadUrl": "https://github.com/marottejm/asistente-android/releases/download/v0.40.1/asistente-0.40.1.apk",
-  "releaseUrl": "https://github.com/marottejm/asistente-android/releases/tag/v0.40.1",
+  "size": 327406512,
+  "sha256": "661955991d76aa8b5e08995ae29b0b56e8a1465a00861fd420fbcffb96d52130",
+  "downloadUrl": "https://github.com/marottejm/asistente-android/releases/download/v0.44.0/asistente-0.44.0.apk",
+  "releaseUrl": "https://github.com/marottejm/asistente-android/releases/tag/v0.44.0",
   "channel": "public-beta",
   "debuggable": false
 }
